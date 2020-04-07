@@ -32,10 +32,10 @@ public class TestClass
 		System.out.println("Raghunath Squash Test3");
 		
 		
-		String string=new String("x");
-		String str=new String("x");
+		String string="x";
+	
 		
-		if (string==str)
+		if (string.equals("x"))
 		{
 			System.out.println("Pass");
 		}
