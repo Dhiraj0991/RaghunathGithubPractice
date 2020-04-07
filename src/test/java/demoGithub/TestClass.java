@@ -17,6 +17,12 @@ public class TestClass
 		System.out.println("Hi Righunath Hello Dhiraj World");
 		
 		System.out.println("Protect branches test");
+		
+		System.out.println("Squash Test1");
+		
+		System.out.println("Squash Test2");
+		
+		System.out.println("Squash Test3");
 
 
 
