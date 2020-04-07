@@ -30,6 +30,19 @@ public class TestClass
 		System.out.println("Raghunath Squash Test2");
 		
 		System.out.println("Raghunath Squash Test3");
+		
+		
+		String string=new String("x");
+		String str=new String("x");
+		
+		if (string==str)
+		{
+			System.out.println("Pass");
+		}
+		
+		else {
+			System.out.println("Fail");
+		}
 
 
 	}
