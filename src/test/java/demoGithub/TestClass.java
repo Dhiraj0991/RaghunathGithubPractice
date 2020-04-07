@@ -33,8 +33,7 @@ public class TestClass
 		
 		
 		String string="x";
-		
-		
+
 		if (string.equals("x"))
 		{
 			System.out.println("Pass");
