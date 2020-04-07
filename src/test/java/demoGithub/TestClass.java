@@ -21,6 +21,8 @@ public class TestClass
 		System.out.println("Squash Test1");
 		
 		System.out.println("Squash Test2");
+		
+		System.out.println("Squash Test3");
 
 
 
