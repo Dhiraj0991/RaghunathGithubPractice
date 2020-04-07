@@ -29,8 +29,6 @@ public class TestClass
 		System.out.println("Raghunath Squash Test2");
 		
 		System.out.println("Raghunath Squash Test3");
-		
-		System.out.println("Testing discard");
 
 
 
