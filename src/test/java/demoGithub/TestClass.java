@@ -19,6 +19,8 @@ public class TestClass
 		System.out.println("Protect branches test");
 		
 		System.out.println("Squash Test1");
+		
+		System.out.println("Squash Test2");
 
 
 
