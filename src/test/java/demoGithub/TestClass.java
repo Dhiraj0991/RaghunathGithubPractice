@@ -23,6 +23,7 @@ public class TestClass
 		System.out.println("Squash Test2");
 		
 		System.out.println("Squash Test3");
+
 		
 		System.out.println("Raghunath Squash Test1");
 		
@@ -30,10 +31,25 @@ public class TestClass
 		
 		System.out.println("Raghunath Squash Test3");
 		
+
 		System.out.println("Raghunath Squash Test5");
 
+		
+		String string="x";
 
 
+		if (string.equals("x"))
+		{
+			System.out.println("Pass");
+		}
+		
+		else {
+			System.out.println("Fail");
+		}
+
+
+		
+		System.out.println("Stash Test");
 	}
 
 }
